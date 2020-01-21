@@ -1,0 +1,114 @@
+<admin>
+<ADMIN10000> 
+200000={停用软件="假"};
+100000={启动更新="真"};
+100001={更新方式="直链下载"};
+100002={最新版本="1.2"};
+100003={会员开关="免费"};【收费】为积分验证【免费】无需积分验证
+100005={登陆开关="收费"};【收费】需要登录账号密码【免费】无需登录账号密码
+100008={提示标题="💝💝💝日常公告💝💝💝"};
+100007={授权积分="100"}
+100009={提示内容="🌹长按导航中的内部会员即可进入福利模式"};
+100010={确定是否跳转="假"};【假】确定按钮不跳转【真】确定按钮跳转
+100011={取消是否跳转="假"};【假】确定按钮不跳转【真】确定按钮跳转
+100012={跳转内容="https://fir.im/52RC"};
+100013={体验地址="17EE20A0FEC346E29E718F046C89F74B6DF4F86C"};
+100015={积分商品="https://gitee.com/libage/web.php/raw/master/zhifubao.txt"};
+100004={更新说明="更新说明：|1.修复了酷我音乐|2.修复了已知bug|3.新增了代理系统|4.新增了用户求片|5.修复了内部会员部分视频"};
+100020={公告内容="🍀 🌹汝城影院1.1正式版已发布，可以尝试长按会员福利"};
+100025={播放器公告内容="🌹💝通告：请不要相信视频内容中所有广告，如有被欺骗后果自负"};
+100080={QQ="185889352",WX="443083227",URL="https://fir.im/RC52",URL2="https://fir.im/RC52",URL3="https://www.lanzous.com/i7b6zcb&pwd=8888"};
+100016={用户接口="http://e.52rctc.com/"};
+100017={电台专辑="28156352"} 小米电台【28156352】  夜听十分【5916390】
+100018={代理后台="http://daili.52rctc.com/"}
+</ADMIN10000>
+
+
+
+<ADMIN20000>
+100001={更新接口="http://tc.52rctc.com/lanzoujiexi/?url="}
+100002={邮件账号="ruchengtv@vip.qq.com"}
+100003={邮件密码="vjiqzpvmyddybgdf"}
+100004={Sign有效期="100"}
+100005={APPID="10000"}
+100006={APP签名="4e1468159b10842203f615765ccdea9d"}
+100007={授权积分="100"}
+</ADMIN20000>
+
+
+
+<ADMIN40000>
+*@pay：0->关闭,1->在线支付,2->网页购买,3->自由选择
+400000={@pay="1",@UserName="MM10000",@RechargeApi="https://w.eydata.net/aef4348dc31cbba1"};
+100001={agent="https://gitee.com/zhisu/top/raw/master/agent.txt"};
+100002={feedback="https://gitee.com/zhisu/top/raw/master/feedback.txt"};
+100003={key="https://gitee.com/zhisu/top/raw/master/key.txt"};
+100004={jxapi="https://gitee.com/zhisu/top/raw/master/jxapi.txt"};
+100005={cctv="https://gitee.com/zhisu/top/raw/master/cctv.txt"};
+100006={buygoods="https://gitee.com/libage/web.php/raw/master/zuoka.txt"};
+100007={poster="https://coding.net/u/qq443083227/p/ruchengapp/git/raw/master/lunbo.txt"};
+100008={UserUp="https://gitee.com/zhisu/top/raw/master/UserUp.txt"};
+100009={代理后台="http://daili.52rctc.com/"};
+100023={rctv="https://coding.net/u/qq443083227/p/lizhile2/git/raw/master/cctv.txt"}    
+100012={抢版体验="http://vip.52rctc.cn/"};       
+100088={heimingdan="http://heimingdan.52rctc.com/"}
+</ADMIN40000>
+
+<ADMIN50000>
+100001={积分分享="https://coding.net/u/qq443083227/p/ruchengapp/git/raw/master/jf.txt"}
+100002={中间件="http://jifen.rc521.cn/admin/openapi_unsafe.php"}
+100003={最大资源="http://zuidazy.net/"}
+100004={OK资源="http://api.iokzy.com/"}
+100005={急速云="http://www.caijizy.com/"}
+100006={卧龙资源="https://qiaozhen.com.cn/"}
+100007={写真接口="17EE20A0B7D646A8D62ACF412B8DB536"}
+100008={高清接口="https://cdn.111av.app/newsite.html"}
+100009={更新接口="https://api.mlwei.com/lanzou/api/?url="} 诚通解析：https://api.mlwei.com/chengtong/api/?url=  蓝奏：https://api.mlwei.com/lanzou/api/?url=
+100010={XJ接口="17EE20A0FEC346E2CB209F4F3C9CA07156F6F36AE4AD130A206F2AAE9C84576B749AB35DE09F84D8DD3A"}
+100011={YP接口="17EE20A0FEC346E28168CA1A32CABB7643"}      
+100012={SO接口="17EE20A0B7D646BBD671855F6B93BD7000A2A473"}   
+100013={直播接口="17EE20A0B7D646AC8871D347648DA1765BB9E43FBFB8430B627677FA9D"}  我的： 17EE20A0B7D646BA9D7A9C5A75CAED2B5CA2BE3FFEB6165E7C3573E6DA9D527E329AA740FADFC8    免费：17EE20A0B7D646AC8871D347648DA1765BB9E43FBFB8430B627677FA9D
+100014={辣椒搜索接口="17EE20A0FEC346E282718E4F6492F66F47B1E5"}       17EE20A0FEC346E2996894466FCABB7643EE
+100015={字幕接口="17EE20A0FEC346E282758F5830CABB7643EE"}  
+100016={茄子接口="17EE20A0FEC346E299689407748AF67A4DB2B234B4FB1A5C3E76"}  
+100017={FC接口="17EE20A0FEC346E29E7B8A5D34DCF67A41ACE5"} 地址1：17EE20A0B7D646BA8F6FD3526C85B77B47F1FA65FEB6165E7C
+100018={茄子接口="17EE20A0FEC346E299689407748AF67A4DB2B234B4FB1A5C3E76"} 地址1：17EE20A0FEC346E28F6F8A047F85AE7245EFA933BDFA
+100019={X8接口="17EE20A0FEC346E2C060855B37CABB7643EE"}
+100020={X8搜索="17EE20A0FEC346E2897EC5522B87B77401A3AB24FFA61C52213A72"}
+100021={二代接口="17EE20A0FEC346E28F6F8A047697A07F48EFA933BDFA"}
+100022={辣椒接口="https://apilj.com/api.php/provide/vod/at/xml/|UTF-8"}
+100023={XX接口="https://lbapi9.com/api.php/provide/vod/at/xml/|UTF-8"}
+100024={直播接口2="17EE20A0B7D646AC8871D35C6C94B5705DB2B972B3BA14096B6835F0DD9A596F7C94EC"} 
+http://api.iixxzyapi.com/inc/apickm3u8.php
+https://lbapi9.com/api.php/provide/vod/at/xml/
+  http://cj.809zy.com/inc/seacmsapi.php
+</ADMIN50000>
+
+
+https://jx.618g.com/?url=
+http://www.58danke.top/jx/xin?url=
+  http://jiexi.52rctc.com/?url=
+  https://vip.mpos.ren/v/?url=
+  https://jiexi.380k.com/?url=
+  https://jx.uuuu.run/?url=
+  https://xy.xyatv.com/?url=
+  http://jiexi.52rctc.cn/?url=
+<analysis>https://v.canzhisong.cn/v.php?url=</analysis>-----这里是解析默认
+<analysis1>http://jiexi.52rctc.com/?v=</analysis1>----这里是解析接口1
+<analysis2>http://jiexi.52rctc.cn/?url=</analysis2>-----这里是解析接口2
+<analysis3>https://vip.66parse.xyz/?url=</analysis3>-----这里是解析接口3
+<analysis4>https://jx.618g.com/?url=</analysis4>-----这里是解析接口4
+<analysis5>http://jiexi.52rctc.cn/?url=</analysis5>-----这里是解析接口5
+<analysis6>https://jiexi.380k.com/?url=</analysis6>-----这里是解析接口6
+<analysis7>https://jiexi.380k.com/?url=</analysis7>-----这里是解析接口7
+<analysis8>https://jx.618g.com/?url=</analysis8>-----这里是解析接口8
+  
+  <ADMIN60000>
+100001={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
+100002={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
+100003={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
+100004={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
+100005={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"};
+100006={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"};
+</ADMIN60000>
+</admin>
