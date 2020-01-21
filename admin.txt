@@ -46,7 +46,7 @@
 100004={jxapi="https://gitee.com/zhisu/top/raw/master/jxapi.txt"};
 100005={cctv="https://gitee.com/zhisu/top/raw/master/cctv.txt"};
 100006={buygoods="https://gitee.com/libage/web.php/raw/master/zuoka.txt"};
-100007={poster="https://coding.net/u/qq443083227/p/ruchengapp/git/raw/master/lunbo.txt"};
+100007={poster="https://qq443083227.coding.net/p/rucheng/d/rucheng/git/raw/master/lunbo.txt"};
 100008={UserUp="https://gitee.com/zhisu/top/raw/master/UserUp.txt"};
 100009={代理后台="http://daili.52rctc.com/"};
 100023={rctv="https://coding.net/u/qq443083227/p/lizhile2/git/raw/master/cctv.txt"}    
