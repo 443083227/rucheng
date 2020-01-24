@@ -28,7 +28,7 @@
 100001={更新接口="http://tc.52rctc.com/lanzoujiexi/?url="}
 100002={邮件账号="ruchengtv@vip.qq.com"}
 100003={邮件密码="vjiqzpvmyddybgdf"}
-100004={Sign有效期="500"}
+100004={Sign有效期="1000"}
 100005={APPID="10000"}
 100006={APP签名="4e1468159b10842203f615765ccdea9d"}
 100007={授权积分="100"}
