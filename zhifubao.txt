@@ -1,0 +1,16 @@
+<VIP>
+<shangpin>7天</shangpin>-----<jiage>7</jiage>-----<biaojia>15金币</biaojia>
+<shangpin>30天</shangpin>-----<jiage>30</jiage>-----<biaojia>90金币</biaojia>
+<shangpin>90天</shangpin>-----<jiage>90</jiage>-----<biaojia>260金币</biaojia>
+<shangpin>365天</shangpin>-----<jiage>365</jiage>-----<biaojia>500金币</biaojia>
+</VIP>
+
+
+
+
+<SVIP>
+<shangpin>周卡</shangpin>-----<jiage>5.00</jiage>-----<biaojia>5元</biaojia>
+<shangpin>月卡</shangpin>-----<jiage>9.90</jiage>-----<biaojia>9.90元</biaojia>
+<shangpin>季卡</shangpin>-----<jiage>38.00</jiage>-----<biaojia>38元</biaojia>
+<shangpin>年卡</shangpin>-----<jiage>88.00</jiage>-----<biaojia>88元</biaojia>
+</SVIP>
