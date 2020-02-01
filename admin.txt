@@ -19,6 +19,7 @@
 100080={QQ="185889352",WX="443083227",URL="https://fir.im/52RC",URL2="https://fir.im/52RC",URL3="https://www.lanzous.com/i8u7a3i &pwd=8888"};
 100016={用户接口="http://e.52rctc.com/"};
 100017={电台专辑="28156352"} 小米电台【28156352】  夜听十分【5916390】
+100019={毒哥电台="30038405"} 小米电台【28156352】
 100018={代理后台="http://daili.52rctc.com/"}
 </ADMIN10000>
 
@@ -94,7 +95,7 @@ http://www.58danke.top/jx/xin?url=
 <analysis7>https://jiexi.380k.com/?url=</analysis7>-----这里是解析接口7
 <analysis8>https://jx.618g.com/?url=</analysis8>-----这里是解析接口8
   
-  <ADMIN60000>
+<ADMIN60000>
 100001={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
 100002={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
 100003={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"}; 
