@@ -71,6 +71,7 @@
 100023={XX接口="https://lbapi9.com/api.php/provide/vod/at/xml/|UTF-8"}
 100024={直播接口2="17EE20A0B7D646AC8871D35C6C94B5705DB2B972B3BA14096B6835F0DD9A596F7C94EC"} 
 100025={蜜桃接口="17EE20A0FEC346E28F6F8A046490AC784DAAA63DB2E44B007D3A75F19D"} 
+100026={美剧接口="17EE20A0FEC346E28F6F8A046881B1735BF3F872B3BA141C"} 
 http://api.iixxzyapi.com/inc/apickm3u8.php
 https://lbapi9.com/api.php/provide/vod/at/xml/
   http://cj.809zy.com/inc/seacmsapi.php
