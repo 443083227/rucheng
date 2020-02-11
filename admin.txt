@@ -106,4 +106,5 @@ http://www.58danke.top/jx/xin?url=
 100005={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"};
 100006={FULI图片="https://coding.net/u/qq443083227/p/img/git/raw/master/shantui3.jpg"};
 </ADMIN60000>
+
 </admin>
